@@ -1,1 +1,1 @@
-# SQL-Supermarket-Sales-Analysis
+📊 SQL-based supermarket sales analysis project focused on business insights, revenue trends, customer behavior, product performance, and sales growth using aggregations, CTEs, window functions, ranking, and analytical SQL queries.# SQL-Supermarket-Sales-Analysis
